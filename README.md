@@ -28,4 +28,4 @@
 - Statistics are full of bugs
 
 #### Under Development
-[![acgsex_bot](https://github-readme-stats.vercel.app/api/pin/?username=cluckbird&repo=acgsex_bot)](https://github.com/cluckbird/acgsex_bot)
+[![acgsex_bot](https://github-readme-stats.vercel.app/api/pin/?username=cluckbird&repo=acgsex_bot&show_owner=true)](https://github.com/cluckbird/acgsex_bot)
