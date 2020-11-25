@@ -17,4 +17,12 @@
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%202004-blue)
 ![MacOS](https://img.shields.io/badge/MacOS-1.15.1-lightgrey)
 
-- I wanted to add statistics for my common languages, etc., but a bug appeared.
+#### Github Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=cluckbird&count_private=true&show_icons=true)](https://github.com/cluckbird)
+
+<!---
+#### Wakatime Stats
+[![wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cluckbird)](https://github.com/cluckbird)
+--->
+
+- Statistics are full of bugs
