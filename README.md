@@ -1,6 +1,6 @@
 ### Hi, I'm CluckBird 👋
 
-#### I am a full-stack programmer from China.
+#### I am a programmer from China
 
 ![Python](https://img.shields.io/badge/python-3.5%20%7C%203.9-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-web-orange)
