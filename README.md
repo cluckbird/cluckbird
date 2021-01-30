@@ -9,8 +9,6 @@
 ![Android](https://img.shields.io/badge/Android-Kotlin-green)
 ![CSS](https://img.shields.io/badge/CSS-web-yellow)
 ![HTML](https://img.shields.io/badge/HTML-web-green)
-![Kotlin](https://img.shields.io/badge/Kotlin-Android-yellowgreen)
-![Swift](https://img.shields.io/badge/Swift-IOS-red)
 
 #### The operating system I use
 
