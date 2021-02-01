@@ -2,10 +2,11 @@
 
 #### I am a programmer from China
 
-![Python](https://img.shields.io/badge/python-3.5%20%7C%203.9-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-web-orange)
-![PHP](https://img.shields.io/badge/php-7.1%20%7C%207.4-blue)
-![Golang](https://img.shields.io/badge/Golang-1.15-blue)
+![Python](https://img.shields.io/badge/python-Language-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-orange)
+![PHP](https://img.shields.io/badge/php-Language-blue)
+![Golang](https://img.shields.io/badge/Golang-Language-blue)
+![C/C++](https://img.shields.io/badge/C/C++-Language-blue)
 ![Android](https://img.shields.io/badge/Android-Kotlin-green)
 ![CSS](https://img.shields.io/badge/CSS-web-yellow)
 ![HTML](https://img.shields.io/badge/HTML-web-green)
